@@ -1,0 +1,21 @@
+{
+	"development": {
+		"codego", "postgres", "123456", {"host" "localhost","dialect" "postgres" }
+	},
+	"test": {
+		"username": "",
+		"password": null,
+		"database": "",
+		"host": "",
+		"dialect": "",
+		"operatorsAliases": 0
+	},
+	"production": {
+		"username": "",
+		"password": "",
+		"database": "",
+		"host": "",
+		"dialect": "mysql",
+		"operatorsAliases": 0
+	}
+}

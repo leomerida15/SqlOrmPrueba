@@ -1,0 +1,9 @@
+{
+	"apiKey": "72B2C54F-E3DB-48DC-8DB0-5B159L906F17",
+	"secretKey": "3a02689349840442bda7f846c915866e1db9d562",
+	"apiURL": "https://sandbox.flow.cl/api",
+	"baseURL": "https://wannatrip.tours/api",
+	"frontURL": "https://wannatrip.tours",
+	"correo": "wanatrip01prueba@gmail.com",
+	"clave": "wanatrippruebahola"
+}
